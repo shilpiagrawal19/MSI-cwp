@@ -1,0 +1,51 @@
+.whyus{
+    
+    padding-top: 50px;
+}
+.whyus-contain{
+    padding: 50px 0px 50px 0px;
+}
+
+.whyus-icon{
+    text-align: center;
+    width: 40% !important;
+    background: #FFFFFF;
+    border: 1px solid #D7E6FD;
+    box-sizing: border-box;
+    box-shadow: 3px 40px 24px rgba(229, 233, 246, 0.18);
+    border-radius: 20px;
+    margin-left: 50px;
+    height: 200px;
+}
+.whyus-icon2{
+    text-align: center;
+    width: 40% !important;
+    background: #FFFFFF;
+    border: 1px solid #D7E6FD;
+    box-sizing: border-box;
+    box-shadow: 3px 40px 24px rgba(229, 233, 246, 0.18);
+    border-radius: 20px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+  
+}
+.whyus-pera{
+    padding-top: 20px;
+    padding-left: 10%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    color: #38373A;
+    width: 90%;
+    text-align: left;
+}
+.whyus-peracenter {
+    padding-top: 20px;
+    width: 100%;
+    text-align: center;
+    margin-left: 10px;
+    padding-bottom: 20px;
+}

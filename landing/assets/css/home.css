@@ -1,0 +1,72 @@
+.navbar-default {
+    background-color: white !important;
+    border-color: white !important;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #00498D !important;
+}
+
+
+.navbar-default .navbar-nav .active>a {
+   
+    background-color: white !important;
+}
+
+
+.navbar-default .navbar-nav a:hover{
+    /* text-decoration: underline; */
+    /* border-bottom: 2px solid #00498D;
+    padding: 0px;
+    margin: 15px; */
+}
+.navbar-nav{
+    padding-top: 10px!important;
+}
+.rightnav{
+    float: right ;
+}
+
+.Contact{
+    background: #00498D;
+border-radius: 10px;
+color: white;
+margin: 10px;
+font-weight: bold !important;
+}
+
+.left{
+
+    flex:0.5;
+}
+.Details{
+    padding-top: 70px;
+}
+.heading{
+    
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 41px;
+display: flex;
+align-items: center;
+color: #00498D;
+}
+
+.content{
+    font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+display: flex;
+align-items: center;
+
+color: #2368A7;
+}
+
+.right{
+    background-image: url(./../images/Group\ 1615.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 240px;
+    flex: 0.5;
+}

@@ -1,0 +1,224 @@
+.container-fluid{
+    /* padding: 0px !important; */
+    padding-left: 0px !important;
+    padding-right: 0px!important;
+}
+.right-index2{
+    background-image: url(./../images/Group\ 1616.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 240px;
+    flex: 0.5;
+}
+
+.program-list-index2{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 25px;
+/* text-align: center; */
+color: #38373A;
+mix-blend-mode: normal;
+padding: 25px 0 10px 0px !important;
+}
+
+.span-content{
+    
+    padding-left: 5px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: -25px;
+
+color: #00498D;
+mix-blend-mode: normal;
+text-align: center;
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    .span-content{
+        font-size: 10px;
+    font-weight: bold;
+    }
+}
+.img-security{
+    
+    padding: 10px 20px;
+}
+
+.card-security{
+    padding-top: 30px;
+    padding-bottom: 10px !important;
+    margin: 20px ;
+    z-index: 2;
+    width: 28% !important;
+    /* text-align: center; */
+    background: #FFFFFF;
+    border: 1px solid #DBE8FD;
+    box-sizing: border-box;
+    border-radius: 19px;
+}
+.card1{
+       
+        height: 470px;
+  
+}
+
+.card2{
+    height: 530px;
+}
+
+.card3{
+    height: 570px;
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    .card1{
+        margin-top: 160px !important;
+        height: 500px;
+    }
+
+    .card2{
+        /* margin-top: 20px !important; */
+        height: 600px;
+    }
+
+    .card3{
+        height: 640px;
+    }
+}
+
+.card-index2{
+    margin: 20px 60px 20px 20px;
+    z-index: 2;
+    width: 28% !important;
+    text-align: center;
+    background: #FFFFFF;
+    border: 1px solid #DBE8FD;
+    box-sizing: border-box;
+    border-radius: 19px;
+    height: 300px;
+    width: 26% !important;
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+.card-index2{
+    margin: 20px 40px 20px 20px;
+}
+}
+.index2-contact{
+    background: #00498D;
+border-radius: 10px;
+color: white;
+margin: 10px;
+text-align: center;
+font-weight: bold !important;
+}
+.margin0{
+    margin:0 !important;
+}
+.padding-bootom20{
+    padding-bottom: 50px !important;
+}
+.program-icon{
+    margin-top: -35px !important;
+
+}
+
+.program{
+    margin-bottom: 50px !important;
+ 
+}
+
+.program-pera{
+    padding-bottom: 60px;
+    padding-left: 50px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #00498D;
+}
+
+.background-pg{
+    background-image: url(./../images/vector2bgVector.png);
+    background-repeat: no-repeat;
+}
+
+.card{
+    margin: 20px;
+    z-index: 2;
+    width: 28% !important;
+    text-align: center;
+    background: #FFFFFF;
+    border: 1px solid #DBE8FD;
+    box-sizing: border-box;
+    border-radius: 19px;
+    height: 500px;
+}
+
+.program-head{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #00498D;
+    padding: 5px 20px;
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    .program-head{
+        font-size: 20px !important;
+    }
+}
+.program-list{
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 25px;
+    color: #38373A;
+}
+.program-list-left{
+    margin-left: 30px;
+}
+
+.font-black{
+    color: #000 !important;
+}
+.margin-left100{
+    margin-left: 100px !important;
+}
+
+.program-end{
+    margin-top: 50px;
+    margin-right: 80px;
+    padding: 40px !important;
+    border-top: 4px solid #00498D;
+    border-bottom: 4px solid #00498D;
+    
+}
+.program-end:hover{
+    border-top: 4px solid #2b76bd;
+    border-bottom: 4px solid #2b76bd;  
+}
+
+.program-end-text{
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #38373A;
+
+}
+.margin-left80{
+    margin-left: 30px !important;
+}

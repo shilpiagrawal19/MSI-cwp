@@ -1,0 +1,52 @@
+.footer{
+    margin-top: 50px;
+    background: #252B42;
+    padding: 100px;
+
+}
+.footer-list ul {
+   text-align: left;
+   padding-left: 300px;
+   padding-right: 100px;
+   font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 37px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+list-style: none;
+
+}
+.list-head{
+    text-align: left;
+    padding-left: 300px;
+    padding-right: 100px;
+  
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 33px;
+letter-spacing: 0.1px;
+color: #FFFFFF;
+}
+.icon-social{
+    padding-right: 20px;
+}
+.subscribe-head{
+    padding-top: 10px;
+    padding-left: 0px !important;
+}
+
+.contact-form{
+    padding-top: 50px;
+    width: 50%;
+}
+.form-control{
+    border-radius: 15px  !important;
+}
+
+#email::placeholder{
+    font-size: 10px;
+    color:#18171D;;
+}

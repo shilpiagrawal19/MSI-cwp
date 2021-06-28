@@ -1,0 +1,102 @@
+.program{
+    margin-bottom: 50px !important;
+}
+
+.program-pera{
+    padding-left: 50px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #00498D;
+}
+
+.background-pg{
+    background-image: url(./../images/vector2bgVector.png);
+    background-repeat: no-repeat;
+}
+
+.card{
+    margin: 20px;
+    z-index: 2;
+    width: 28% !important;
+    text-align: center;
+    background: #FFFFFF;
+    border: 1px solid #DBE8FD;
+    box-sizing: border-box;
+    border-radius: 19px;
+    height: 500px;
+}
+.card2{
+    margin: 20px 30px 20px 20px;
+    z-index: 2;
+    width: 43% !important;
+    text-align: center;
+    background: #FFFFFF;
+    border: 1px solid #DBE8FD;
+    box-sizing: border-box;
+    border-radius: 19px;
+    height: 300px !important;
+}
+.program-icon2{
+    margin-left: -55px;
+    /* margin-top: 14px !important; */
+}
+.program-head{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #00498D;
+    padding: 5px 20px;
+}
+.program-list{
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 25px;
+    color: #38373A;
+}
+.program-list-left{
+    margin-left: 30px;
+}
+
+.font-black{
+    color: #000 !important;
+}
+.margin-left100{
+    margin-left: 100px !important;
+}
+
+.program-end{
+    margin-top: 50px;
+    margin-right: 80px;
+    padding: 40px !important;
+    border-top: 4px solid #00498D;
+    border-bottom: 4px solid #00498D;
+    
+}
+.program-end:hover{
+    border-top: 4px solid #2b76bd;
+    border-bottom: 4px solid #2b76bd;  
+}
+
+.program-end-text{
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 26px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #38373A;
+
+}

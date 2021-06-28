@@ -1,0 +1,112 @@
+.form{
+    padding-top: 50px;
+   
+}
+form{
+    background: rgba(218, 235, 255, 0.33);
+    border-radius: 13px;
+    padding: 20px;
+}
+.form-head{
+    padding-left: 50px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #00498D;
+}
+.form-head2{
+    padding-left: 50px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 35.16px;
+    color: #00498D;
+    padding-bottom: 20px;
+}
+.form-pera{
+    padding: 0px 27px 0px 50px;
+    width: 80%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #00498D;
+    
+    }
+
+    form label{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+        color: #333333;
+        font-weight: bold;
+            }
+            
+     .form-button{
+     
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+        background: #00498D !important;
+        color: white;
+        font-weight: bolder;
+        border-radius: 10px;
+    }
+    .modal{
+        background: #FFFFFF;
+border: 1px solid #DADADA;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+    }
+    .modal-width{
+        width: 400px !important;
+    }
+    .close-modal{
+        float: right;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    border: none;
+    }
+
+    /* .icon-close{
+        color:#00498D !important ;
+        mix-blend-mode: luminosity;
+    } */
+
+    .modal-head{
+        font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    color: #00498D;
+    padding: 20px 10px 10px 50px;
+
+    }
+    .modal-pera{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+color: #00498D;
+padding: 30px 20px;
+    }
+
+    .verify-icon{
+        padding-top: 60px !important;
+        padding-left: 40px;
+    }

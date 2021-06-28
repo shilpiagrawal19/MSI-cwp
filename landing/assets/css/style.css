@@ -1,0 +1,60 @@
+
+.home{
+    display: flex;
+}
+.background{
+    background-image: url("./../images/Vector.png");
+    padding: 230px 0px 350px 0px ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* flex:6.0; */
+    width: 70% !important;
+   
+}
+
+.background2{
+    background-image: url("./../images/Vector (2).png");
+    background-size: cover;
+    /* height: 500px; */
+    width: 5%;
+    margin-left: 200px;
+      
+}
+
+.homebtn{  
+ 
+padding: 25px 80px !important;
+width: 50%;
+margin-right: 250px !important;
+margin-left: 380px !important;
+margin-bottom: 40px !important;
+background: #00498D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+font-style: normal;
+font-weight: bolder;
+font-size: 25px !important;
+align-items: center;
+text-align: center;
+letter-spacing: 0.1px;
+color: #FFFFFF;
+border-radius: 20px !important;
+
+}
+.nav-right{
+    padding-top: 10px !important;
+    padding-left: 100px !important;
+}
+.large-logo{
+    width: 102px !important;
+}
+.navbar>.container-fluid .navbar-brand {
+    margin-left: -36px !important;
+}
+
+.btn{
+    font-weight: bold !important;
+}
+.margin-left50{
+    margin-left: 50px !important;
+}

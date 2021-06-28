@@ -1,0 +1,132 @@
+.Service{
+    background-image: url(./../images/Frame.png);
+    padding: 70px 0px 100px 0px !important;
+    background-repeat: no-repeat;
+    
+}
+.technologies{
+    margin-bottom: 45px;
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    .technologies{
+        /* margin-bottom: 75px; */
+    }
+}
+.btn-common{
+    background-color: white;
+    padding: 10px 30px !important;
+    border-radius: 20px !important;
+    margin-right: 0px !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Roboto;
+font-style: normal;
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    .btn-common{
+        margin-left: 35px;
+    }
+}
+.yellow{
+    color: yellow;
+    border: 3.82px solid #BBEC56 !important;
+}
+
+.green{
+    color: #66CE8C;
+    border: 3.82px solid #66CE8C !important;
+}
+
+.blue{
+    color: #268AFF;
+    padding: 10px 22px !important;
+    border: 3.82px solid #42A8CD !important;
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    .blue{
+        margin-top: 20px;
+    }
+}
+.navyblue{
+    color: #268AFF;
+    border: 3.82px solid #268AFF !important;
+    padding: 10px 38px !important;
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    .navyblue{
+        margin-top: 20px;
+    }
+}
+.padding-lr-0{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    width: 14% !important;
+}
+.overlap-btn{
+    z-index: 2;
+}
+.shift-left{
+    position: relative;
+    left: -80px;
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    .shift-left{
+        position: relative;
+        left: -10px;
+    }
+}
+.tech-peregraph{
+  
+    width: 398px;
+    height: 97px;  
+text-align: justify;
+font-family: Roboto;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #3E3159;
+z-index: 1;
+margin-top: 0px;
+background: #ECF6FF;
+padding: 30px 30px 20px 70px;
+border-radius: 50px;
+position: relative;
+    top: -20px;
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px){
+
+    .tech-peregraph{
+    margin-bottom: 0px;    
+    }
+    
+    }
+
+    .tech-peregraph-3{
+        margin-top: 5px;
+        z-index: 1;
+    }
+    @media screen and (min-width: 992px) and (max-width: 1200px){
+        .tech-peregraph-3{
+            margin-top: 25px;
+        }
+
+    }
+
+    .border-security-btn{
+        background: #FFFFFF;
+opacity: 0.9;
+border: 1px solid #D7E6FD;
+box-sizing: border-box;
+border-radius: 20px;
+width: 90%;
+margin: 10px 30px 20px 15px;
+    }
+
+    @media screen and (min-width: 992px) and (max-width: 1200px){
+        .border-security-btn{
+           
+    width: 100%;
+    margin: 10px 15px 20px 0px;
+        } 
+    }
